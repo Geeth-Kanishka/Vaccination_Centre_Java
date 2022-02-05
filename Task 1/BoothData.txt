@@ -1,0 +1,7 @@
+Vaccine Stock:149
+booth 0 is occupied by :geeth
+booth 1 is :empty
+booth 2 is :empty
+booth 3 is :empty
+booth 4 is :empty
+booth 5 is :empty
