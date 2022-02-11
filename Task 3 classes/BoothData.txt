@@ -1,0 +1,4 @@
+Vaccine Stock:146
+booth number:0:   Firstname--:Allan:   Surname--:Parker:   Age--:26:   City--:NewYork:   Nic--:200002454545:   Vaccine--:AStrazeneca
+booth number:2:   Firstname--:Zed:   Surname--:richard:   Age--:50:   City--:LOndon:   Nic--:500032687:   Vaccine--:sinopharm
+booth number:5:   Firstname--:Barry :   Surname--:Jbd:   Age--:15:   City--:kurunehala:   Nic--:598695968:   Vaccine--:Pfizer

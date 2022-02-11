@@ -1,0 +1,5 @@
+Vaccine Stock:144
+booth number:0:   Firstname--:6:   Surname--:66:   Age--:6:   City--:6:   Nic--:6:   Vaccine--:astrazeneca
+booth number:1:   Firstname--:8:   Surname--:8:   Age--:8:   City--:8:   Nic--:8:   Vaccine--:astrazeneca
+booth number:3:   Firstname--:2:   Surname--:2:   Age--:2:   City--:2:   Nic--:2:   Vaccine--:sinopharm
+booth number:5:   Firstname--:l:   Surname--:l:   Age--:4:   City--:;:   Nic--:4:   Vaccine--:pfizer
